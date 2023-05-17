@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Categories=Office
+Exec=com-uzero-baimiao
+Icon=com-uzero-baimiao
+Name=com-uzero-baimiao
+Name[zh_CN]=白描
+StartupNotify=true
+Terminal=false
+Type=Application

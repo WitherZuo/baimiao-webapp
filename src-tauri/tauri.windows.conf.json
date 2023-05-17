@@ -1,0 +1,25 @@
+{
+  "tauri": {
+    "bundle": {
+      "icon": ["png/白描_256.ico", "png/白描_32.ico"],
+      "identifier": "com.uzero.baimiao",
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "",
+      "externalBin": [],
+      "longDescription": "白描 - 适用于桌面设备的 OCR 服务",
+      "resources": ["png/白描_32.ico"],
+      "shortDescription": "白描",
+      "targets": ["msi"],
+      "windows": {
+        "certificateThumbprint": null,
+        "digestAlgorithm": "sha256",
+        "timestampUrl": "",
+        "wix": {
+          "language": ["zh-CN"],
+          "template": "assets/main.wxs"
+        }
+      }
+    }
+  }
+}

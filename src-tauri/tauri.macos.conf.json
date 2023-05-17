@@ -1,0 +1,23 @@
+{
+  "tauri": {
+    "bundle": {
+      "icon": ["icons/白描.icns"],
+      "identifier": "com.uzero.baimiao",
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "",
+      "externalBin": [],
+      "longDescription": "白描 - 适用于桌面设备的 OCR 服务",
+      "macOS": {
+        "entitlements": null,
+        "exceptionDomain": "",
+        "frameworks": [],
+        "providerShortName": null,
+        "signingIdentity": null
+      },
+      "resources": [],
+      "shortDescription": "白描",
+      "targets": ["dmg"]
+    }
+  }
+}
