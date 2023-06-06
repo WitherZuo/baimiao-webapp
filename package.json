@@ -1,6 +1,6 @@
 {
   "name": "baimiao-webapp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple Baimiao WebApp.",
   "engines": {
     "node": ">=16.0.0"
